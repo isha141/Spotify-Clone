@@ -9,7 +9,7 @@
  
  
  
- ![Screenshot (36)](https://github.com/isha141/Spotify-Clone/assets/87226077/f4361c69-f68f-43ab-9199-163f70039f74) 
+![image](https://github.com/isha141/Spotify-Clone/assets/87226077/cc4cf66c-ec5e-4523-8c51-35e2bd4fb6cc)
  
  
  
